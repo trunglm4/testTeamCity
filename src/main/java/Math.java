@@ -5,6 +5,6 @@ public class Math {
         this.b = b;
     }
     public int add() {
-        return a + b;
+        return a + b + 1;
     }
 }
