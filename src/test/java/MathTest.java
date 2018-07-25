@@ -11,4 +11,9 @@ public class MathTest {
     public void testAdd() {
         Assert.assertEquals(17, math.add());
     }
+
+    @Test
+    public void testSub() {
+        Assert.assertEquals(-1, math.sub());
+    }
 }

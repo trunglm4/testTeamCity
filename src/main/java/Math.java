@@ -7,4 +7,9 @@ public class Math {
     public int add() {
         return a + b ;
     }
+
+    public int sub() {
+        
+        return a - b ;
+    }
 }
