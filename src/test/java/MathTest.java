@@ -14,11 +14,11 @@ public class MathTest {
 
     @Test
     public void testSub() {
-        Assert.assertEquals(-1, math.sub());
+        Assert.assertEquals(-3, math.sub());
     }
 
     @Test
     public void testMul() {
-        Assert.assertEquals(70, math.sub());
+        Assert.assertEquals(70, math.mul());
     }
 }
