@@ -16,4 +16,9 @@ public class MathTest {
     public void testSub() {
         Assert.assertEquals(-1, math.sub());
     }
+
+    @Test
+    public void testMul() {
+        Assert.assertEquals(70, math.sub());
+    }
 }
