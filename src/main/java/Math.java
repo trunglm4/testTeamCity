@@ -15,4 +15,8 @@ public class Math {
     public int mul() {
         return a *  b ;
     }
+
+    public static void main(String[] args) {
+        System.out.println("sucessfull!!");
+    }
 }
