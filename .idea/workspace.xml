@@ -7,12 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82dad07e-6b93-4006-8c18-8aad5a8327e5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/unnamed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/testTeamCity_jar/testTeamCity.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/unnamed/unnamed.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Math.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Math.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Math.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Math.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/MathTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/MathTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -37,13 +34,13 @@
       <file leaf-file-name="Math.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Math.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+            <state relative-caret-position="165">
+              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
               <folding>
                 <element signature="e#126#127#0" expanded="true" />
                 <element signature="e#155#156#0" expanded="true" />
                 <element signature="e#179#180#0" expanded="true" />
-                <element signature="e#208#209#0" expanded="true" />
+                <element signature="e#209#210#0" expanded="true" />
                 <element signature="e#308#309#0" expanded="true" />
                 <element signature="e#344#345#0" expanded="true" />
               </folding>
@@ -130,26 +127,6 @@
               <item name="testTeamCity" type="b2602c69:ProjectViewProjectNode" />
               <item name="testTeamCity" type="462c0819:PsiDirectoryNode" />
               <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testTeamCity" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testTeamCity" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testTeamCity" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testTeamCity" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-              <item name="testTeamCity_jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testTeamCity" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testTeamCity" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-              <item name="unnamed" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testTeamCity" type="b2602c69:ProjectViewProjectNode" />
@@ -321,7 +298,7 @@
       <workItem from="1532498565275" duration="238000" />
       <workItem from="1532498988445" duration="463000" />
       <workItem from="1532570371683" duration="2299000" />
-      <workItem from="1532679121811" duration="1107000" />
+      <workItem from="1532679121811" duration="1707000" />
     </task>
     <servers />
   </component>
@@ -340,10 +317,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8956000" />
+    <option name="totallyTimeSpent" value="9556000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -356,10 +334,10 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32939634" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32848486" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32848486" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25751072" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25751072" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -397,7 +375,7 @@
             <element signature="e#126#127#0" expanded="true" />
             <element signature="e#155#156#0" expanded="true" />
             <element signature="e#179#180#0" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
             <element signature="e#308#309#0" expanded="true" />
             <element signature="e#344#345#0" expanded="true" />
           </folding>
@@ -433,7 +411,7 @@
             <element signature="e#126#127#0" expanded="true" />
             <element signature="e#155#156#0" expanded="true" />
             <element signature="e#179#180#0" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
             <element signature="e#308#309#0" expanded="true" />
             <element signature="e#344#345#0" expanded="true" />
           </folding>
@@ -469,7 +447,7 @@
             <element signature="e#126#127#0" expanded="true" />
             <element signature="e#155#156#0" expanded="true" />
             <element signature="e#179#180#0" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
             <element signature="e#308#309#0" expanded="true" />
             <element signature="e#344#345#0" expanded="true" />
           </folding>
@@ -505,7 +483,7 @@
             <element signature="e#126#127#0" expanded="true" />
             <element signature="e#155#156#0" expanded="true" />
             <element signature="e#179#180#0" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
             <element signature="e#308#309#0" expanded="true" />
             <element signature="e#344#345#0" expanded="true" />
           </folding>
@@ -538,13 +516,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Math.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        <state relative-caret-position="165">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
           <folding>
             <element signature="e#126#127#0" expanded="true" />
             <element signature="e#155#156#0" expanded="true" />
             <element signature="e#179#180#0" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
             <element signature="e#308#309#0" expanded="true" />
             <element signature="e#344#345#0" expanded="true" />
           </folding>
