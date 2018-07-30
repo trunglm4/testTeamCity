@@ -9,7 +9,7 @@ public class Math {
     }
 
     public int sub() {
-        return a - b;
+        return a - b  ;
     }
 
     public int mul() {
@@ -17,6 +17,7 @@ public class Math {
     }
 
     public static void main(String[] args) {
-        System.out.println("suc    essfull!!");
+        System.out.println("sucessfull!! thay doi");
+        System.out.println("sucessfull!! thay doi 1");
     }
 }
