@@ -19,5 +19,7 @@ public class Math {
     public static void main(String[] args) {
         System.out.println("sucessfull!! thay doi");
         System.out.println("sucessfull!! thay doi 1");
+        System.out.println("sucessfull!! thay doi 2");
+
     }
 }
