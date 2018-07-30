@@ -20,6 +20,7 @@ public class Math {
         System.out.println("sucessfull!! thay doi");
         System.out.println("sucessfull!! thay doi 1");
         System.out.println("sucessfull!! thay doi 2");
+        System.out.println("sucessfull!! thay doi 3");
 
     }
 }
