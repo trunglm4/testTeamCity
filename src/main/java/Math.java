@@ -9,7 +9,7 @@ public class Math {
     }
 
     public int sub() {
-        return a - b + 1;
+        return a - b ;
     }
 
     public int mul() {
