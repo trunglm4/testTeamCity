@@ -27,6 +27,7 @@ public class Math {
         System.out.println("sucessfull!! thay doi 7");
         System.out.println("sucessfull!! thay doi 8");
         System.out.println("sucessfull!! thay doi 9");
+        System.out.println("sucessfull!! thay doi 10");
 
     }
 }
